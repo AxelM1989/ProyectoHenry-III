@@ -74,3 +74,11 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 "summary": Resumen o comentarios sobre el vuelo en cuestión.
 
 ## Enfoque tomado para el acercamiento al problema.
+* Se realizó un archivo notebook con todo el EDA (analisis exploratorio de los datos) necesario, llevando a cabo transformaciones y el preprocesamiento que se cree adecuado. A su vez se buscan e incorporan distintos datasets desde la página "http://planecrashinfo.com/", importandola directamente a python y trabajandolas de la misma manera antes mencionada. Todo esto se encontrará en este repositorio, con el nombre de archivo "Proyecto Individual III.ipynb". --- > https://github.com/AxelM1989/ProyectoHenry-III/blob/main/Proyecto%20Individual%20III.ipynb
+
+* Una vez realizado el mismo se genera la exportación de los archivos trabajados y se importan en MySQL. Se dejan en este mismo repositorio el archivo de consultas SQL realizadas y "db" de database. 
+
+* Desde allí se importan a Power Bi y se efectúa un dashboard correspondiente. Este tablero contendrá un análisis general de todos los accidentes aéreos registrados y también la parte correspondiente al Storytelling para presentar ante Henry Mentor, consistente en "Planteamiento" del problema, "Desarrollo" y "Conclusiones". 
+En este caso, ya que no obtengo la versión de cuenta de empresa para poder compartir mi dashboard, intentaré compartirlo de alguna forma. 
+De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo a través de algún contacto personal.
+
