@@ -87,7 +87,7 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 
 **De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo, a través de algún contacto personal.**
 
-### Planteamiento:
+## Planteamiento:
 ¿Viajaste alguna vez en avión? ¿Te gustó? ¿ Volverías a hacerlo para sentir nuevamente la adrenalina? 
 
 Si no viajaste... ¿Te gustaría hacerlo alguna vez? 
