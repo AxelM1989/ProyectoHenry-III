@@ -45,14 +45,14 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 "route": La ruta que debería haber realizado el vuelo. Lugar de origen y destino.	Varios "?" (los llamaré nulos a partir de este momento).
 "ac_type": Tipo de avión involucrado.	
 "registration". Matrícula de aviones registrados. Las primeras letras generalmente corresponden a prefijos y codigos del pais, luego seguido por la identidad de ese avión.	Con nulos.
-"cn_ln": Número de construcción o de serie / Número de línea o de fuselaje.	
-all_aboard	
-PASAJEROS A BORDO	
-crew_aboard	
-cantidad de fallecidos	
-passenger_fatalities	
-crew_fatalities	
-ground	
-summary
+"cn_ln": Número de construcción o de serie / Número de línea o de fuselaje.	El fuselaje es el "cuerpo" de un avión, su estructura primaria. Es el recubrimiento que alberga la cabina de mando, el espacio para el transporte de pasajeros o para la bodega de carga. Además, es el armazón al que se adhieren otras partes fundamentales.
+"all_aboard": "Todos a bordo", la cantidad de personas en vuelo en cada avión, entre pasajeros y tripulantes.	
+"PASAJEROS A BORDO": Cantidad de pasajeros a bordo.
+"crew_aboard": La tripulación a bordo del avión. Puede incluir a pilotos, oficiales de vuelo, Auxiliar de vuelo, comisarios de a bordo y azafatas.	
+"cantidad de fallecidos": Cantidad total de fallecidos.	
+"passenger_fatalities": Pasajeros fallecidos en vuelo.	
+"crew_fatalities": Tripulación fallecida.	
+"ground": Total de muertes en tierra . Es decir muertes "indirectas" al accidente aéreo. Por ejemplo en el impacto del avion.	
+"summary": Resumen o comentarios sobre el vuelo en cuestión.
 
 ## Enfoque tomado para el acercamiento al problema.
