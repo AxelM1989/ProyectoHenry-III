@@ -34,5 +34,25 @@ El dataset provisto contiene muchos datos faltantes, la mayoría conteniendo un 
 Con esa información extra y el "csv" provisto se debía realizar un proceso de Data Analytics, desde la limpieza y normalización de los datasets utilizados, importarlos y cargarlos a un motor de  base de datos SQL y desde allí importarlo a Power Bi para la realización de un dashboard con las conclusiones oportunas. Luego, se deberá presentar con un mentor de Henry en una reunión virtual de 15 minutos, con no más de 10 minutos para realizar la exposición. Debiendo para ello realizar un Storytelling apropiado.
 
 ## Diccionario de datos
+Los features del archivo provisto son 17, excepto el primero "Unnamed: 0" (que es de tipo int) todo el resto son tipos de datos object, forma denominada en pandas a los (strings), secuencias de caracteres que pueden contener números y / o caracteres. Por ejemplo, una secuencia de caracteres puede ser una palabra, una oración, o varias oraciones. 
+No se indicó previamente que significaba cada columna, por lo que se debió investigar al respecto. A continuación se indicarán las 17 columnas y la explicación que se le da a cada una de ellos para que se comprenda los datos contenidos.
+"Unnamed: 0" : Tipo de dato int que hace alusión al número de indice en cada fila. Valor numérico y único para cada dato.
+"fecha": Fecha del accidente aéreo, en formato mes(escrito), número y año. Por ejemplo: Noviembre, 10,2022.
+"HORA declarada": Hora en que se declara el accidente, mayoría de ellas en formato militar (1020), varias con datos incompletos, como "?".	
+"Ruta": Ruta donde se registró el accidente. Lugar específico.	
+"OperadOR": Aerolínea u operador a cargo del vuelo accidentado. Incluye también aviones militares o charters.	
+"flight_no": Número de vuelo, un porcentaje cercano	a 75% de datos de tipo de tipo "?".
+"route": La ruta que debería haber realizado el vuelo. Lugar de origen y destino.	Varios "?" (los llamaré nulos a partir de este momento).
+"ac_type": Tipo de avión involucrado.	
+"registration". Matrícula de aviones registrados. Las primeras letras generalmente corresponden a prefijos y codigos del pais, luego seguido por la identidad de ese avión.	Con nulos.
+"cn_ln": Número de construcción o de serie / Número de línea o de fuselaje.	
+all_aboard	
+PASAJEROS A BORDO	
+crew_aboard	
+cantidad de fallecidos	
+passenger_fatalities	
+crew_fatalities	
+ground	
+summary
 
 ## Enfoque tomado para el acercamiento al problema.
