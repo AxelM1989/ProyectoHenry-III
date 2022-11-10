@@ -26,7 +26,7 @@ A modo de resumen, se espera que puedan realizar un primer acercamiento al datas
 
 En una instancia posterior, tendrán que ingestar el dataset en un motor SQL de su preferencia. Finalmente, la herramienta de visualización empleada debe conectarse y tomar los datos desde ese motor.
 
-## Stack tecnológico usado:
+## Stack tecnológico utilizado:
 
 * *Python:* EDA + transformaciones + importaciones de datasets adicionales.
 * *SQL:* base de datos (carga y exportación) Utilizando MySQL
