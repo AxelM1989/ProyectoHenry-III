@@ -83,9 +83,20 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 * Una vez realizado el mismo se genera la exportación de los archivos trabajados y se importan en MySQL. Se dejan en este mismo repositorio el archivo de consultas SQL realizadas y "db" de database. 
 
 * Desde allí se importan a Power Bi y se efectúa un dashboard correspondiente. Este tablero contendrá un análisis general de todos los accidentes aéreos registrados y también la parte correspondiente al Storytelling para presentar ante Henry Mentor, consistente en "Planteamiento" del problema, "Desarrollo" y "Conclusiones". 
-* En este caso, ya que no obtengo la versión de cuenta de empresa para poder compartir mi dashboard, intentaré compartirlo de alguna forma. 
+* En este caso, ya que no obtengo la versión de cuenta de empresa para poder compartir mi dashboard, intentaré compartirlo más adelante de algún modo. 
 
-**De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo a través de algún contacto personal.**
+**De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo, a través de algún contacto personal.**
+
+### Planteamiento:
+¿Viajaste alguna vez en avión? ¿Te gustó? ¿ Volverías a hacerlo para sentir nuevamente la adrenalina? 
+
+Si no viajaste... ¿Te gustaría hacerlo alguna vez? 
+
+Si no te gustó / gustaría porque te da miedo, seguramente tu decisión se fortalezca y te sientas orgulloso/a después de observar mi análisis.
+
+Y si tu sueño es viajar o volver a volar... cuanto menos... vas a dudar de si es una decisión correcta. 😱😱😱🤕
+
+
 
 
 ![image](https://user-images.githubusercontent.com/103937102/200998378-212af6ce-6beb-4602-be14-9ff5045a622b.png)
