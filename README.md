@@ -85,7 +85,7 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 * Desde allí se importan a Power Bi y se efectúa un dashboard correspondiente. Este tablero contendrá un análisis general de todos los accidentes aéreos registrados y también la parte correspondiente al Storytelling para presentar ante Henry Mentor, consistente en "Planteamiento" del problema, "Desarrollo" y "Conclusiones". 
 * En este caso, ya que no obtengo la versión de cuenta de empresa para poder compartir mi dashboard, intentaré compartirlo de alguna forma. 
 
-*De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo a través de algún contacto personal.
+De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo a través de algún contacto personal.
 
 ![image](https://user-images.githubusercontent.com/103937102/200997764-4ef81ca9-3af7-4ded-a34d-9bbd326a6a4c.png) 
 
