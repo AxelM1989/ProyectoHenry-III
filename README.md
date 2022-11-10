@@ -87,7 +87,6 @@ No se indicó previamente que significaba cada columna, por lo que se debió inv
 
 **De todas maneras, quedo disponible por si alguien quisiera que le dé una demostración del mismo a través de algún contacto personal.**
 
-![image](https://user-images.githubusercontent.com/103937102/200997764-4ef81ca9-3af7-4ded-a34d-9bbd326a6a4c.png) 
 
 ![image](https://user-images.githubusercontent.com/103937102/200998378-212af6ce-6beb-4602-be14-9ff5045a622b.png)
 
